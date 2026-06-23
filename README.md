@@ -103,3 +103,26 @@ Briefing_Engine --> Streamlit_UI
 
 Streamlit_UI --> CEO_Dashboard
 ```
+### Backend
+- Python 3.10+
+- SQLite (Intel DB)
+- Ollama (LLM inference)
+- TextBlob (Sentiment analysis)
+
+### AI/ML Layer
+- Custom Retriever
+- Evidence Ranker
+- Strategy Scorer
+- Strategic Reasoner
+
+### Frontend
+- Streamlit (Dashboard UI)
+- Plotly (Visualizations)
+
+### Data Processing
+- Pandas
+- Regex Normalization Engine
+
+### Infrastructure
+- Local LLM (qwen3:8b)
+- Modular Python microservices architecture
