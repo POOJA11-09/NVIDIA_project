@@ -31,7 +31,7 @@ E2 --> F3
 
 F3 --> G[Strategic Reasoner]
 
-G --> H[Prompt Builder<br>build_prompt()]
+G --> H[Prompt Builder<br>build_prompt(<br>)]
 
 %% =======================
 %% LLM LAYER
