@@ -126,3 +126,17 @@ Streamlit_UI --> CEO_Dashboard
 ### Infrastructure
 - Local LLM (qwen3:8b)
 - Modular Python microservices architecture
+
+  ---
+
+## ⚙ Technology Stack
+
+- Python
+- Streamlit
+- SQLite
+- Pandas
+- Ollama (Qwen3)
+- TextBlob
+- Plotly
+
+---
